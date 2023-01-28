@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "express-flash": "^0.0.2",
+    "express-session": "^1.17.3",
+    "nodemon": "^2.0.20"
+  }
+}

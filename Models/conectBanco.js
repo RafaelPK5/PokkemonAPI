@@ -6,6 +6,5 @@ const conect = sql.createConnection({
     password: '1234567',
     database: 'pokedex'
 });
-//const conect = new sequelize("pokedex" , "root", "1234567", {host: 'localhost', dialect: 'mysql'})
 
 module.exports = conect;
